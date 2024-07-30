@@ -12,7 +12,7 @@ import appstore from "./utils/appstore";
 import Cart from "./Components/Cart";
 
 
-//lazy loading
+//lazy loading  
 //chunking
 //code splitting
 //dynamic bundling
