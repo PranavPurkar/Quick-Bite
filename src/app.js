@@ -8,7 +8,7 @@ import Error from "./Components/Error";
 import Restaurant from "./Components/Restaurant";
 import {createBrowserRouter,RouterProvider,Outlet} from "react-router-dom";
 import { Provider } from "react-redux";
-import appstore from "./utils/appstore";
+import appstore from "./utils/appstore";   
 import Cart from "./Components/Cart";
 
 
